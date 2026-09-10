@@ -9,8 +9,6 @@ Esta es la dirección que se declara ante Meta como *instrucciones de eliminaci�
 de datos*, y explica cómo solicitar la eliminación de tu cuenta y tus datos
 personales en las aplicaciones del responsable.
 
-> **Pendiente antes de publicar:** completa los campos marcados `[COMPLETAR]`.
-
 ## Opción 1 — Desde la aplicación
 
 Si puedes iniciar sesión, es la vía inmediata:
@@ -26,7 +24,7 @@ La cuenta se elimina en el momento y la sesión se cierra.
 Si perdiste el acceso —por ejemplo, si te registraste con Facebook o Google y ya
 no tienes esa cuenta— solicita la eliminación por correo:
 
-- **Escribe a:** `[COMPLETAR: correo]`
+- **Escribe a:** jlozoya1995@gmail.com
 - **Asunto:** Solicitud de eliminación de datos
 - **Incluye:** la aplicación de la que quieres darte de baja, la dirección de
   correo con la que te registraste y, si lo sabes, el proveedor que usaste para
@@ -79,4 +77,4 @@ oposición. El procedimiento está en el
 
 ## Contacto
 
-`[COMPLETAR: correo]`
+jlozoya1995@gmail.com

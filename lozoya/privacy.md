@@ -5,16 +5,13 @@ title: "Aviso de Privacidad"
 
 Última actualización: 9 de septiembre de 2026
 
-> **Pendiente antes de publicar:** completa los campos marcados `[COMPLETAR]`.
-> Meta rechaza políticas con marcadores de plantilla visibles.
-
 ## Responsable
 
-`[COMPLETAR: nombre o razón social]`, con domicilio en `[COMPLETAR: domicilio]`,
-es responsable del tratamiento de tus datos personales conforme a la Ley Federal
-de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP).
+Fernando Lozoya, con domicilio en Durango, Durango, C.P. 34000, México, es
+responsable del tratamiento de tus datos personales conforme a la Ley Federal de
+Protección de Datos Personales en Posesión de los Particulares (LFPDPPP).
 
-Contacto para asuntos de privacidad: `[COMPLETAR: correo]`
+Contacto para asuntos de privacidad: jlozoya1995@gmail.com
 
 ## Alcance
 

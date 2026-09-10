@@ -5,13 +5,11 @@ title: "Términos y Condiciones"
 
 Última actualización: 9 de septiembre de 2026
 
-> **Pendiente antes de publicar:** completa los campos marcados `[COMPLETAR]`.
-
 ## Aceptación
 
 Estos términos rigen el uso de las aplicaciones, sitios y extensiones operados
-por `[COMPLETAR: nombre o razón social]`. Al crear una cuenta o usar cualquiera
-de ellos, los aceptas. Si no estás de acuerdo, no los uses.
+por Fernando Lozoya. Al crear una cuenta o usar cualquiera de ellos, los
+aceptas. Si no estás de acuerdo, no los uses.
 
 Cuando una aplicación tenga condiciones propias, prevalecerán sobre estas en lo
 que se contradigan.
@@ -140,11 +138,11 @@ servicio después de su entrada en vigor implica aceptarlos.
 
 Estos términos se rigen por las leyes de los Estados Unidos Mexicanos. Para
 cualquier controversia, las partes se someten a los tribunales competentes de
-`[COMPLETAR: ciudad y estado]`, renunciando a cualquier otro fuero.
+Durango, Durango, renunciando a cualquier otro fuero.
 
 En materia de consumo queda a salvo la competencia de la Procuraduría Federal
 del Consumidor (PROFECO).
 
 ## Contacto
 
-`[COMPLETAR: correo]`
+jlozoya1995@gmail.com
