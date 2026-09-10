@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Eliminación de datos — l-ticket"
+title: "Eliminación de datos"
 ---
 
 Última actualización: 9 de septiembre de 2026
 
 Esta es la dirección que se declara ante Meta como *instrucciones de eliminación
 de datos*, y explica cómo solicitar la eliminación de tu cuenta y tus datos
-personales en l-ticket.
+personales en las aplicaciones del responsable.
 
 > **Pendiente antes de publicar:** completa los campos marcados `[COMPLETAR]`.
 
@@ -15,7 +15,7 @@ personales en l-ticket.
 
 Si puedes iniciar sesión, es la vía inmediata:
 
-1. Entra a tu cuenta en `https://l-ticket.lozoya.org`.
+1. Entra a tu cuenta en la aplicación.
 2. Ve a los ajustes de tu perfil.
 3. Elige **Eliminar cuenta** y confirma.
 
@@ -28,8 +28,9 @@ no tienes esa cuenta— solicita la eliminación por correo:
 
 - **Escribe a:** `[COMPLETAR: correo]`
 - **Asunto:** Solicitud de eliminación de datos
-- **Incluye:** la dirección de correo con la que te registraste y, si lo sabes,
-  el proveedor que usaste para entrar.
+- **Incluye:** la aplicación de la que quieres darte de baja, la dirección de
+  correo con la que te registraste y, si lo sabes, el proveedor que usaste para
+  entrar.
 
 Te enviaremos un enlace de confirmación a esa dirección para verificar que la
 solicitud es tuya; el enlace tiene vigencia limitada. Una vez confirmado,
@@ -45,8 +46,7 @@ borrado de la cuenta de otra persona.
 - La vinculación con tu cuenta de Google o Facebook.
 - Tus preferencias y sesiones activas.
 - Tus datos fiscales guardados, salvo los asociados a facturas ya emitidas.
-- Las cuentas de cobro que hayas vinculado como organizador, incluidos sus
-  tokens de acceso.
+- Las cuentas de cobro que hayas vinculado, incluidos sus tokens de acceso.
 
 ## Qué no se puede eliminar, y por qué
 
@@ -54,21 +54,22 @@ borrado de la cuenta de otra persona.
 |---|---|---|
 | Comprobantes fiscales (CFDI) emitidos | Obligación fiscal mexicana | 5 años |
 | Registros de transacciones de pago | Obligación contable y prevención de fraude | 5 años |
-| Datos entregados al organizador de un evento | El organizador es responsable independiente | Según su política |
+| Datos entregados a un tercero con el que contrataste | Ese tercero es responsable independiente | Según su política |
 
-Sobre el último punto: si compraste boletos, el organizador recibió tu nombre y
-correo para el control de acceso. Esa copia está fuera de nuestro control y
-debes dirigir la solicitud directamente a él.
+Sobre el último punto: si compraste algo a través de una aplicación de
+intermediación, el proveedor recibió tus datos de contacto para atenderte. Esa
+copia está fuera de nuestro control y debes dirigir la solicitud directamente a
+él.
 
 Los datos que conservamos por obligación legal quedan bloqueados: no se usan
 para ninguna otra finalidad y se eliminan al vencer el plazo.
 
-## Si eres organizador
+## Si vendes a través de la plataforma
 
-Si tienes eventos futuros con boletos ya vendidos, la eliminación no procede de
-inmediato: hay asistentes que pagaron y dependen de ese evento. Contáctanos para
-resolver primero la liquidación de los pagos pendientes y la atención a esos
-asistentes.
+Si tienes operaciones futuras con cobros ya realizados, la eliminación no
+procede de inmediato: hay clientes que pagaron y dependen de ellas. Contáctanos
+para resolver primero la liquidación de los pagos pendientes y la atención a
+esos clientes.
 
 ## Derechos ARCO
 

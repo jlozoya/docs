@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Aviso de Privacidad — l-ticket"
+title: "Aviso de Privacidad"
 ---
 
 Última actualización: 9 de septiembre de 2026
@@ -16,72 +16,93 @@ de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP).
 
 Contacto para asuntos de privacidad: `[COMPLETAR: correo]`
 
-## Qué es l-ticket
+## Alcance
 
-l-ticket (`https://l-ticket.lozoya.org`) es un marketplace de venta de boletos
-para eventos: pone en contacto a organizadores con compradores y procesa el
-cobro repartiéndolo entre ambos.
+Este aviso cubre las aplicaciones, sitios y extensiones operados por el
+responsable. No todas tratan los mismos datos: cada sección indica cuándo
+aplica. Si una aplicación recaba datos distintos a los descritos aquí, lo
+indicará en su propia documentación antes de solicitarlos.
 
 ## Datos que recabamos
 
-**Al crear una cuenta:** nombre, correo electrónico y contraseña. La contraseña
-se almacena cifrada con bcrypt; nunca en texto claro. Opcionalmente, una
-fotografía de perfil.
+### Cuenta
 
-**Al iniciar sesión con Google** (permisos `openid`, `email`, `profile`):
-identificador de usuario, nombre, correo electrónico y fotografía de perfil.
+En las aplicaciones que requieren registro: nombre, correo electrónico y
+contraseña. La contraseña se almacena cifrada con funciones de derivación
+(bcrypt); nunca en texto claro. Opcionalmente, una fotografía de perfil.
 
-**Al iniciar sesión con Facebook** (permisos `email`, `public_profile`):
-identificador de usuario, nombre, correo electrónico y fotografía de perfil.
+### Acceso con Google o Facebook
 
-En ambos casos no recibimos tu contraseña, ni accedemos a tus contactos,
+Si eliges iniciar sesión con un proveedor externo, recibimos de él únicamente:
+
+- **Google** (permisos `openid`, `email`, `profile`): identificador de usuario,
+  nombre, correo electrónico y fotografía de perfil.
+- **Facebook** (permisos `email`, `public_profile`): identificador de usuario,
+  nombre, correo electrónico y fotografía de perfil.
+
+No recibimos tu contraseña de esos servicios, ni accedemos a tus contactos,
 publicaciones, amistades ni a ningún otro dato de esas cuentas.
 
-**Al solicitar factura:** RFC, nombre o razón social, régimen fiscal, código
-postal del domicilio fiscal y uso del CFDI.
+### Compras y pagos
 
-**Al comprar:** identificador de la transacción, importe, moneda, estado del
-pago y método utilizado.
+*Aplica solo a las aplicaciones que venden productos o servicios.*
 
-**Datos técnicos:** dirección IP, tipo de dispositivo y navegador, y registros
-de acceso, con fines de seguridad y diagnóstico.
+Conservamos el identificador de la transacción, importe, moneda, estado del pago
+y método utilizado.
 
-## Datos de pago
-
-No almacenamos números de tarjeta ni credenciales bancarias. Los pagos se
+**No almacenamos números de tarjeta ni credenciales bancarias.** Los pagos se
 procesan directamente por Stripe, PayPal y Mercado Pago, que actúan como
 responsables independientes conforme a sus propias políticas.
+
+### Datos fiscales
+
+*Aplica solo si solicitas factura.*
+
+RFC, nombre o razón social, régimen fiscal, código postal del domicilio fiscal y
+uso del CFDI.
+
+### Contenido que subes
+
+Imágenes y archivos que cargues voluntariamente, como una fotografía de perfil o
+el material que publiques dentro de la aplicación.
+
+### Datos técnicos
+
+Dirección IP, tipo de dispositivo y navegador, y registros de acceso, con fines
+de seguridad y diagnóstico.
 
 ## Para qué los usamos
 
 Finalidades primarias, necesarias para prestarte el servicio:
 
 - Crear y administrar tu cuenta, y autenticarte.
-- Procesar compras y emitir tus boletos, incluido el código QR de acceso.
+- Prestar la funcionalidad propia de cada aplicación.
+- Procesar compras y entregar lo adquirido, cuando aplique.
 - Enviarte correos transaccionales: verificación de cuenta, recuperación de
-  contraseña, confirmación de compra y entrega de boletos.
+  contraseña y confirmaciones de operación.
 - Emitir facturas cuando las solicites.
-- Poner en contacto a compradores y organizadores para lo relativo al evento.
 - Prevenir fraude y cumplir obligaciones fiscales y legales.
 
 Finalidades secundarias, a las que puedes oponerte sin que afecte tu servicio:
-avisos sobre eventos o novedades de la plataforma, y estadísticas agregadas de
-uso. Para oponerte, escribe al correo de contacto.
+avisos sobre novedades y estadísticas agregadas de uso. Para oponerte, escribe
+al correo de contacto.
 
 ## Con quién los compartimos
 
 | Destinatario | Qué recibe | Para qué |
 |---|---|---|
 | Stripe, PayPal, Mercado Pago | Datos de la transacción | Procesar el pago |
-| Organizador del evento | Nombre y correo del comprador | Control de acceso y atención al asistente |
 | Proveedor autorizado de certificación (PAC) | Datos fiscales | Timbrar el CFDI |
 | Proveedor de correo | Correo electrónico | Entregar correos transaccionales |
+| Terceros con los que operes dentro de la aplicación | Los datos necesarios para esa operación | Cumplir lo que solicitaste |
 | Autoridades competentes | Lo que la ley exija | Cumplimiento legal |
 
 No vendemos tus datos personales ni los cedemos con fines publicitarios.
 
-Al comprar un boleto, el organizador del evento recibe tus datos de contacto y
-se convierte en responsable del tratamiento que haga de ellos.
+Sobre la cuarta fila: en las aplicaciones de intermediación, donde contratas con
+un tercero a través de la plataforma, esa contraparte recibe los datos de
+contacto necesarios para atenderte y se convierte en responsable del tratamiento
+que haga de ellos.
 
 ## Cuánto los conservamos
 
@@ -116,7 +137,7 @@ publicidad ni de seguimiento entre sitios.
 
 ## Menores de edad
 
-El servicio no está dirigido a menores de 18 años. Si detectamos que hemos
+Los servicios no están dirigidos a menores de 18 años. Si detectamos que hemos
 recabado datos de un menor sin consentimiento de quien ejerce la patria
 potestad, los eliminaremos.
 
