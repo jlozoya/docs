@@ -1,4 +1,7 @@
-# Términos y Condiciones — l-ticket
+---
+layout: default
+title: "Términos y Condiciones — l-ticket"
+---
 
 Última actualización: 9 de septiembre de 2026
 

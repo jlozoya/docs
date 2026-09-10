@@ -1,4 +1,7 @@
-# Eliminación de datos — l-ticket
+---
+layout: default
+title: "Eliminación de datos — l-ticket"
+---
 
 Última actualización: 9 de septiembre de 2026
 

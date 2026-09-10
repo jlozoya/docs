@@ -1,0 +1,12 @@
+# GitHub Pages publica este repositorio como sitio estático para que las páginas
+# legales tengan una URL propia en HTML. Las plataformas de revisión (Meta,
+# Google, Chrome Web Store) rechazan los enlaces `blob` de GitHub, porque
+# devuelven la interfaz del repositorio y no el documento.
+title: Docs
+description: Public documentation and legal pages for browser extensions and apps.
+theme: jekyll-theme-cayman
+
+# Jekyll solo convierte a HTML los archivos que llevan front matter; el resto
+# los copia tal cual.
+exclude:
+  - README.md

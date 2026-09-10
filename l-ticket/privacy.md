@@ -1,4 +1,7 @@
-# Aviso de Privacidad — l-ticket
+---
+layout: default
+title: "Aviso de Privacidad — l-ticket"
+---
 
 Última actualización: 9 de septiembre de 2026
 
